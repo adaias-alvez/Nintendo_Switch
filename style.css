@@ -486,7 +486,7 @@
 
     @media (max-width: 950px){
         .tudo{
-            transform: scale(0.4)
+            transform: rotate(90deg) scale(0.4);
         }
     }
     @media (max-width: 320px){
