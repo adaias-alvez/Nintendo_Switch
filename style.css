@@ -511,7 +511,7 @@
 
     @media (max-width: 950px){
         .tudo{
-            transform: rotate(90deg) scale(0.5);
+            transform: rotate(90deg) scale(0.4);
         }
     }
     @media (max-width: 320px){
